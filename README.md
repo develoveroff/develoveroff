@@ -19,7 +19,6 @@ En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
-  <img src="https://stenciljs.com/assets/img/logos/stencil-logo.png" width="40" height="40" alt="StencilJS" />
 </p>
 
 ### ⚙️ Backend
@@ -36,15 +35,14 @@ En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40" alt="API REST" />
 </p>
 
 ---
 
 ## 📺 Últimos videos en mi canal
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
+<!-- BLOG-POST-LIST:START --> 
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
