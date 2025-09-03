@@ -43,7 +43,7 @@ En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comp
 
 <table>
   <tr>
-    <!-- YOUTUBE:START --><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title</a</td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title</a</td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title</a</td><!-- YOUTUBE:END -->
+    <!-- YOUTUBE:START --><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px' /><br>${title}</a></td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px' /><br>${title}</a></td><td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px' /><br>${title}</a></td><!-- YOUTUBE:END -->
   </tr>
 </table>
 
