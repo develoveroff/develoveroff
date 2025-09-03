@@ -1,0 +1,17 @@
+name: Latest YouTube Videos
+
+on:
+  schedule:
+    - cron: "0 */12 * * *" # 12 horas
+  workflow_dispatch: # Correrlo manualmente
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          max_post_count: "3"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2yS2MUV7XGT2Y-HgsGMqA"
