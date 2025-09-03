@@ -43,8 +43,8 @@ En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comp
 
 ## 📺 Últimos videos en mi canal
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
 
 ---
 
