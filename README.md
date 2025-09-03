@@ -43,8 +43,7 @@ En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comp
 
 <table>
   <tr>
-    <!-- YOUTUBE:START -->
-    <!-- YOUTUBE:END -->
+    <!-- YOUTUBE:START --><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a><!-- YOUTUBE:END -->
   </tr>
 </table>
 
