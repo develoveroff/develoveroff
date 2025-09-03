@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 ¡Hola!
 
-<!--
-**develoveroff/develoveroff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎥 **Creador de contenido en YouTube | Desarrollador de Software**  
 
-Here are some ideas to get you started:
+En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comparto:
+- 🚀 Tutoriales de programación y desarrollo web  
+- 🛠️ Tips sobre herramientas y buenas prácticas  
+- 🌐 Experimentos con micro productos, APIs y automatización  
+- 💡 Ideas para crecer como desarrollador  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Stack Tecnológico
+
+### 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="Next.js" />
+  <img src="https://stenciljs.com/assets/img/logos/stencil-logo.png" width="40" height="40" alt="StencilJS" />
+</p>
+
+### ⚙️ Backend
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40" alt="Socket.IO" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" width="40" height="40" alt="C# .NET" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP" />
+</p>
+
+### 🔧 Otros
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="40" height="40" alt="NGINX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/api/api-original.svg" width="40" height="40" alt="API REST" />
+</p>
+
+---
+
+## 📺 Últimos videos en mi canal
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=angelovelandia&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+---
+
+## 🌱 En mi canal encontrarás
+- 📚 Tutoriales de React, Next.js y Node.js  
+- 🤖 Automatización con bots  
+- ⚡ Tips de productividad para devs  
+
