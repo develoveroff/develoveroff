@@ -25,5 +25,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2yS2MUV7XGT2Y-HgsGMqA"
-          max_post_count: 6
-          template: "<a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title}</a>"
+          max_post_count: 3
+          template: "<td align='center'><a href='${url}' target='_blank'><img src='https://img.youtube.com/vi/${id}/hqdefault.jpg' width='250px'><br>${title</a</td>"
