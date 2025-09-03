@@ -24,4 +24,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "YOUTUBE"
+          max_post_count: 3
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2yS2MUV7XGT2Y-HgsGMqA"
