@@ -2,8 +2,8 @@ name: Latest YouTube Videos
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # 12 horas
-  workflow_dispatch: # Correrlo manualmente
+    - cron: "0 */12 * * *" # Cada 12 horas (00:00 y 12:00 UTC)
+  workflow_dispatch: # Para ejecutarlo manualmente
 
 jobs:
   update-readme:
@@ -11,7 +11,17 @@ jobs:
     steps:
       - uses: actions/checkout@v2
 
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - name: Update README with latest YouTube videos
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          max_post_count: "3"
+          max_post_count: "5" # Número de videos a mostrar
           feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCE2yS2MUV7XGT2Y-HgsGMqA"
+          custom_tags: "youtube"
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "actions@github.com"
+          git config --local user.name "GitHub Actions"
+          git add README.md
+          git commit -m "🔄 Actualizando últimos videos de YouTube"
+          git push
