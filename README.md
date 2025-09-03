@@ -52,7 +52,7 @@ En mi canal **[Develover en YouTube](https://www.youtube.com/@deve_lover)** comp
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=angelovelandia&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=develoveroff&show_icons=true&theme=tokyonight" alt="GitHub stats" />
 </p>
 
 ---
