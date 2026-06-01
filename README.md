@@ -62,28 +62,9 @@
 ## 📺 Últimos videos en mi canal
 
 <!-- YOUTUBE:START -->
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <a href="https://www.youtube.com/watch?v=hzxaJcXPA0E">
-        <img src="https://img.youtube.com/vi/hzxaJcXPA0E/mqdefault.jpg" width="100%" alt="AnyDesk con dos pantallas" /><br/>
-        <b>Cómo usar AnyDesk con dos pantallas</b>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://www.youtube.com/shorts/mKwI95AtunA">
-        <img src="https://img.youtube.com/vi/mKwI95AtunA/mqdefault.jpg" width="100%" alt="npm no se reconoce" /><br/>
-        <b>npm no se reconoce como cmdlet</b>
-      </a>
-    </td>
-    <td width="33%" align="center">
-      <a href="https://www.youtube.com/shorts/A_gKLSyc4Jk">
-        <img src="https://img.youtube.com/vi/A_gKLSyc4Jk/mqdefault.jpg" width="100%" alt="Reiniciar NodeJS al guardar" /><br/>
-        <b>Reiniciar NodeJS automáticamente al guardar</b>
-      </a>
-    </td>
-  </tr>
-</table>
+- [Cómo Usar AnyDesk con Dos Pantallas | Conexión Remota Paso a Paso](https://www.youtube.com/watch?v=hzxaJcXPA0E)
+- [NodeJS término npm no sé reconoce como nombre de un cmdlet #nodejs #desarrollo #npm #cmdlet #vscode](https://www.youtube.com/shorts/mKwI95AtunA)
+- [Reiniciar NodeJS automáticamente al guardar cambios #developer #vscode #dev #desarrollo #nodejs](https://www.youtube.com/shorts/A_gKLSyc4Jk)
 <!-- YOUTUBE:END -->
 
 <p align="center">
